@@ -4,6 +4,8 @@
 
 Explore fictional Austin rentals, compare housing preferences and walk through a simulated viewing.
 
+**[Try the live demo →](https://agora-rental-follow-up-demo.vercel.app/)**
+
 **[Explore more voice AI demos on Agora Recipes →](https://recipes.agora.io/)**
 
 [![Agora](https://img.shields.io/badge/Voice_AI-Agora-099DFD)](https://www.agora.io/en/products/conversational-ai-engine/)

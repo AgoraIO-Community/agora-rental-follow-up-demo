@@ -6,6 +6,8 @@
 
 使用虚构的 Austin 租房资料，讨论区域、月租预算、户型及入住偏好，并模拟确认看房。
 
+**[在线试用 →](https://agora-rental-follow-up-demo.vercel.app/)**
+
 **[Explore more voice AI demos on Agora Recipes →](https://recipes.agora.io/)**
 
 [![Agora](https://img.shields.io/badge/Voice_AI-Agora-099DFD)](https://www.agora.io/en/products/conversational-ai-engine/)
@@ -23,6 +25,8 @@
 - 比较三套虚构房源；押金、其他费用和真实可租状态未知。
 - 选择未来两周内周二、周四或周六的模拟看房时段。
 - 确认、修改或取消仅作用于当前对话，不建立真实预约或客户线索。
+
+<a id="tech-stack"></a>
 
 ## 技术栈
 

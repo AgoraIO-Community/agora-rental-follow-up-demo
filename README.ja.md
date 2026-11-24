@@ -6,6 +6,8 @@
 
 架空の Austin の賃貸物件について、地域・月額予算・間取り・入居希望を相談し、内見を模擬確認します。
 
+**[オンラインデモを試す →](https://agora-rental-follow-up-demo.vercel.app/)**
+
 **[Explore more voice AI demos on Agora Recipes →](https://recipes.agora.io/)**
 
 [![Agora](https://img.shields.io/badge/Voice_AI-Agora-099DFD)](https://www.agora.io/en/products/conversational-ai-engine/)
@@ -23,6 +25,8 @@
 - 架空の物件三件を比較します。敷金・諸費用・実際の空室状況は未設定です。
 - 今後二週間の火・木・土曜から模擬内見を選びます。
 - 確認・変更・取消は会話内のみです。予約や顧客情報は保存しません。
+
+<a id="tech-stack"></a>
 
 ## 技術構成
 
